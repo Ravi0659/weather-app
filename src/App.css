@@ -1,0 +1,37 @@
+.picturebg{
+  background:url(weather.jpg);
+   height: 350px;
+  display: flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items: center;
+}
+h1{
+  color: beige;
+  font-size: 60px;
+  font-weight: lighter;
+}
+.box{
+  margin: auto;
+  width: 450px;
+  height: 250px;
+}
+.icon{
+  margin-top: 2px;
+  height: 120px;
+  width: 150px;
+}
+.btn{
+  color:black;
+  background-color: blueviolet;
+}
+.btn:hover{
+background-color: blue;
+}
+h6{
+  font-weight: bold;
+  font-size: 40px;
+}
+h5{
+font-size: 35px;
+}
